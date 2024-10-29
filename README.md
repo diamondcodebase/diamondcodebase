@@ -1,5 +1,10 @@
+## Self-Introduction ##
 Hello👋, my name is Diamond💎 (@diamond_dai)
-I’m interested in coding, new technology, soccer and science.
+I love coding and new technology.
+My habits are playing soccer, basketball and running.
 I have been a software developer/designer for over 6 years, and currently looking for a new job.
-I’m currently learning GoLang, React.js, machine learning and AI and looking to collaborate on projects of web application and AI 
+I’m currently join the software development and DevOps courses in CourseCareers.
+Throughout the courses, I am learning GoLang, React.js
+And I am studying about machine learning and AI.
+I am seeking collaboration with other developers, on projects of web application and AI 
 You can contact me through email diamond.dai@gmail.com
